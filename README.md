@@ -535,6 +535,8 @@ jobs:
 
 Am făcut push la toate modificările în repositoriu și am verificat execuția workflow-ului în fila Actions din GitHub. Testele au fost executate cu succes în containerul Docker.
 
+![](./images/result.png)
+
 ### Răspunsuri la întrebări:
 
 #### 1. Ce este integrarea continuă?
